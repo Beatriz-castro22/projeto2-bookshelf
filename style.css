@@ -1,23 +1,17 @@
-h1{
-    margin-left: 400px;
+.titulo {
+    text-align: center;
 }
-p{
-    margin-left: 290px;
+
+.content{
+    text-align: center;
 }
-#linha{
-    width: 1000px;
-    border: 1px solid;
+.botao{
+    color: #ffffff;
+    background-color: black;
+    border-radius: 15px;
+    border: none;
 }
-h3{
-    margin-left: 300px;
-}
-p2{
-    margin-left: 200px;
-}
-butu
-h4{
-    margin-left: 400px;
-}
-img{
-    width: 900px;
+.img {
+    text-align: center;
+    
 }
